@@ -12,7 +12,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Macfolio",
+  title: "Minimalist",
   description:
     "A portfolio for developers who love Macs. Built with Next.js, Tailwind CSS, and TypeScript by @yogardkaa.",
 };
