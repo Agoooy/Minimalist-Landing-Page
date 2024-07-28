@@ -14,19 +14,18 @@ const AboutSection = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 md:grid-rows-1 w-full gap-y-8 gap-x-0 md:gap-x-8">
         <div className="col-span-2 flex flex-col">
           <p className="text-base md:text-base text-muted-foreground">
-            Hi! I'm Yoga, a full stack developer from Indonesia.
-            I try to craft unique and creative digital experiences.
+            Hi! I'm Yoga, a Human Resource Management student
+            with a strong passion for programming.
             <span className="h-6 block" />
-            I've been programming for 2 years, it all started when covid-19
-            struck and now I'm here. I've been working with various clients and
-            companies to help them achieve their goals.
+            I've been honing my skills for nearly 3 years, starting from when the COVID-19 pandemic hit.
+            During this time, I've had the opportunity to work with various clients and companies, helping
+            them achieve their goals through unique and creative digital experiences.
             <span className="h-6 block" />
-            I always loved coding in general, but frontend development is my
-            piece of cake, alongside with design and product development.
+            While I love coding in general, frontend development is my
+            specialty, along with design and product development
             <span className="h-6 block" />
-            Today, I focus on crafting conversion-focused, SEO-optimized, and
-            cool-looking websites for businesses and individuals, helping them
-            stand out from the crowd.
+            Today, I focus on creating conversion-focused, SEO-optimized, and visually 
+            appealing websites for businesses and individuals, helping them stand out from the crowd.
           </p>
         </div>
         <div className="col-span-1 flex flex-col gap-4 md:gap-6">

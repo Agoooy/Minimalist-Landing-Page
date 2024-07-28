@@ -17,7 +17,7 @@ const reviews = [
   {
     name: "Heru",
     username: "@heru",
-    body: "Jika kamue sedih, keluarkan kesedihanmu. Jika kamu malu, keluarkan",
+    body: "Jika kamu sedih, keluarkan kesedihanmu. Jika kamu malu, keluarkan",
     img: "https://avatar.vercel.sh/john",
   },
   {
