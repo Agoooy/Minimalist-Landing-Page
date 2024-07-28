@@ -21,7 +21,7 @@ const Nav = () => {
         {/* Logo */}
         <Profile
           imageAlt="@agooy"
-          imageUrl="https://github.com/Agoooy.png"
+          imageUrl="https://www.instagram.com/p/C9fQXpdq6pc/"
           name="Yoga"
           subtitle="Frontend Developer"
         />
