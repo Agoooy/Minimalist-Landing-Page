@@ -31,11 +31,9 @@ const AboutSection = () => {
         <div className="col-span-1 flex flex-col gap-4 md:gap-6">
           <AboutCard />
           <div className="flex items-center gap-2 flex-wrap">
-            <Badge className="w-fit text-sm px-2 py-1">Figma</Badge>
+            <Badge className="w-fit text-sm px-2 py-1">JavaScript</Badge>
             <Badge className="w-fit text-sm px-2 py-1">React</Badge>
-            <Badge className="w-fit text-sm px-2 py-1">Vercel</Badge>
             <Badge className="w-fit text-sm px-2 py-1">Next.js</Badge>
-            <Badge className="w-fit text-sm px-2 py-1">Webflow</Badge>
             <Badge className="w-fit text-sm px-2 py-1">Tailwind</Badge>
             <Badge className="w-fit text-sm px-2 py-1">TypeScript</Badge>
           </div>

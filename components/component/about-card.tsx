@@ -19,11 +19,11 @@ const AboutCard = () => {
         </li>
         <li className="flex gap-x-3 items-center text-muted-foreground">
           <Check className="w-3 h-3 shrink-0 text-foreground" />
-          <p>Publish my first blog post</p>
+          <p>Publish my first portfolio</p>
         </li>
         <li className="flex gap-x-3 items-center text-muted-foreground">
           <LoaderCircle className="w-3 h-3 shrink-0 text-foreground animate-spin" />
-          <p>Ship Tomodoro</p>
+          <p>Bertarung dengan Sukuna</p>
         </li>
         <li className="flex gap-x-3 items-center text-muted-foreground">
           <LoaderCircle className="w-3 h-3 shrink-0 text-foreground animate-spin" />

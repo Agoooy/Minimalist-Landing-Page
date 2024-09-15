@@ -16,12 +16,12 @@ const HomeSection = () => {
           Creating unique websites and digital experiences
         </h1>
         <p className="text-sm md:text-base font-medium text-muted-foreground mb-6 md:mb-8">
-          With almost 3 years of experience, I've worked with startups and
+          With almost 2 years of experience, I've worked with startups and
           companies to craft unique digital experiences. I am currently making
           conversion-based and SEO optimized products to help businesses grow
           and flourish. I mainly craft my magic using{" "}
-          <span className="text-semibold text-foreground">Next.js</span> and{" "}
-          <span className="text-semibold text-foreground">Supabase</span>.
+          <span className="text-semibold text-foreground">React</span> and{" "}
+          <span className="text-semibold text-foreground">Next.js</span>.
         </p>
         <div className="flex items-center justify-center gap-x-4 gap-y-4 flex-wrap">
           <Button className="border-2 py-1.5 h-fit" id="about">

@@ -21,9 +21,9 @@ const Nav = () => {
         {/* Logo */}
         <Profile
           imageAlt="@agooy"
-          imageUrl="https://www.instagram.com/p/C9fQXpdq6pc/"
+          imageUrl="https://github.com/Agoooy.png"
           name="Yoga"
-          subtitle="Frontend Developer"
+          subtitle="Front-End Developer"
         />
         {/* Navigation */}
         <nav className="flex items-center gap-x-2 md:gap-x-8">
